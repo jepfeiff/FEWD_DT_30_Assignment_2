@@ -1,0 +1,89 @@
+html {box-sizing: border-box;
+}
+
+
+
+.font {font-weight: bold 900 24px;
+	font-family: 'Open Sans', sans-serif;
+} 
+
+.headerpic {
+	padding-bottom: 89px;
+	margin-top: 6%;
+
+}
+
+ header {border: black;
+	height: 50%;
+	width: 30%;
+	text-align: center;
+}
+h1 {
+	color: white;
+	font-size: 38px;
+}
+
+h2 {font-weight: bold 800 20px;
+	text-align: center;
+	font-size: 27px;
+	color: white;
+}
+
+h3 {font-weight: bold 600 24px;
+
+}
+
+.box {background: #f9e42e;
+	border-style: dotted black 40px;
+	text-align: center;
+	font-weight: bolder;
+	color: black 90px;
+	border-radius: 5px;
+	width: 25%;
+	margin-left: 36%;
+	padding: 25px;
+	padding-right: 25px;
+} 
+
+ul {font-weight: bold 600 13px;
+
+}
+
+blockquote {
+font-style: italic;
+text-align: center;
+
+}
+
+h5 {
+font-weight: bold 600;
+text-align: center;
+
+}
+
+p {background: 900 18px;
+	border-spacing: 5px;
+	text-align: center;
+} 
+
+.box3 {  
+}
+
+.article1 {font-weight: bold 600 13px;
+
+}
+
+aside {color:  #f9e42e;
+	font-weight: bold 900 24px;
+	text-align: center;
+	font-size: 30px;
+}
+
+.pics {text-align: center;
+	padding-right: 15px;
+
+}
+
+footer {font-size: 12px;
+	text-align: center;
+ }
